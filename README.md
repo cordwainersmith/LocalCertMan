@@ -45,21 +45,7 @@ certificates lists export, certificate installation, certificate conversion, and
   </p>
 </div>
 
-
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-	<li><a href="#features">Features</a></li>
-	<li><a href="#prerequisites">Prerequisites</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
 
