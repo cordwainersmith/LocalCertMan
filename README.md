@@ -82,18 +82,6 @@ Run As Administrator Permisssions:
 
 
 
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
-See the [open issues](https://github.com/cordwainersmith/LocalCertMan/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- LICENSE -->
 ## License
 
@@ -107,6 +95,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 cordwainer@alpharalpha.net
+
+See the [open issues](https://github.com/cordwainersmith/LocalCertMan/issues) for a full list of proposed features (and known issues).
 
 Project Link: [https://github.com/cordwainersmith/LocalCertMan](https://github.com/cordwainersmith/LocalCertMan)
 
