@@ -58,6 +58,7 @@ certificates lists export, certificate installation, certificate conversion, and
 * Installing a trusted root certificate to the local machine certificate store
 * Merging CER and KEY files to a passsword protected PFX
 * Bind a certificate to the IIS default website
+* View certificate details from URL
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -105,7 +106,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Cordwainer@AlphaRalpha.net
+cordwainer@alpharalpha.net
 
 Project Link: [https://github.com/cordwainersmith/LocalCertMan](https://github.com/cordwainersmith/LocalCertMan)
 
