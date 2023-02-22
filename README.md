@@ -44,7 +44,7 @@ certificates lists export, certificate installation, certificate conversion, and
   </p>
 </div>
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://https://github.com/cordwainersmith/LocalCertMan/)
 
 
 
@@ -119,7 +119,7 @@ Project Link: [https://github.com/cordwainersmith/LocalCertMan](https://github.c
 [license-shield]: https://img.shields.io/github/license/cordwainersmith/LocalCertMan.svg?style=for-the-badge
 [license-url]: https://github.com/cordwainersmith/LocalCertMan/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/liran-baba-77b4b421
+[linkedin-url]: https://linkedin.com/in/liranba
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
